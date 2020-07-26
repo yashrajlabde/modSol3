@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Fira+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+body{
+background-color: 
+}
+
+#header-nav{
+
+	background-color: grey;
+	border-radius: 0;
+	border:0;
+	min-height: 70px;
+}
+
+h1{
+	margin:0px;
+	padding-bottom: 3px;
+	font-weight: bold;
+	color: black;
+	font-family: tahoma;
+}
+
+h2{
+	text-align: center;
+	font-size: 34px;
+	font-weight: bold;
+
+}
+
+h3{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bolder;
+	font-style: italic;
+	font-family: 'Fira Sans', sans-serif;
+}
+.content-background{
+	background-color: orange;
+	width: 95%;
+
+}
+
+p.content{
+	font-size: 16px;
+	font-weight: bold;
+	font-family: 'DM Sans',sans-serif;
+}
+
+
+.container button.navbar-toggle {
+
+	border-color: black;
+
+}
+.navbar-default .navbar-toggle{
+	border-color: black;
+
+}
+
+
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: black;
+}
+
+.navbar-default .navbar-collapse{
+
+	margin-top: 20px;
+	border-color: black;
+}
+
+#nav-list{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: white;
+	padding: 0px;
+	border-bottom: 1px solid black;
+}
+
+.nav > li{
+	font-stretch:expanded;
+	font-size: 1.5em;
+	text-align: center;
+	border-bottom:1px solid black;
+	
+}
+
+#nav-list a{
+
+	color: black;
+	text-align: center;
+
+}
