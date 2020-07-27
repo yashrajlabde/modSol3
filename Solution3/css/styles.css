@@ -25,6 +25,7 @@ h2{
 	text-align: center;
 	font-size: 34px;
 	font-weight: bold;
+	color: white;
 
 }
 
@@ -36,8 +37,9 @@ h3{
 	font-family: 'Fira Sans', sans-serif;
 }
 .content-background{
-	background-color: orange;
+	/*background-color: orange;*/
 	width: 95%;
+
 
 }
 
@@ -96,4 +98,16 @@ p.content{
 
 li:hover{
 	background-color: yellow;
+}
+
+.box{
+  width:100%;
+  overflow: none;
+  margin:0px;
+  background-color: orange;
+  border: 2px solid black;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+
 }
